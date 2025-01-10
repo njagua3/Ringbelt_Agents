@@ -78,7 +78,7 @@ function App() {
             <div className="flex items-center">
               <Building2 className="h-8 w-8 text-blue-600 dark:text-blue-500" />
               <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">
-                Ringbelt Estate Agents
+                Ringbelt Agents
               </span>
             </div>
             <div className="flex items-center space-x-4">
