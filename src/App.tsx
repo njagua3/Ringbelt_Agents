@@ -148,14 +148,14 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-wrap justify-center items-center gap-6 text-sm">
             <a
-              href="tel:+254707016042"
+              href="tel:+254707046253"
               className="flex items-center hover:text-blue-200"
             >
               <Phone className="h-4 w-4 mr-2" />
               Office: +254 707046253
             </a>
             <a
-              href="tel:+254XXXXXXXXX"
+              href="tel:+254721398816"
               className="flex items-center hover:text-blue-200"
             >
               <Phone className="h-4 w-4 mr-2" />
