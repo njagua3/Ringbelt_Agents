@@ -460,7 +460,7 @@ function App() {
               <div className="flex items-center">
                 <Building2 className="h-8 w-8 text-blue-500" />
                 <span className="ml-2 text-xl font-bold text-white">
-                  Nyingi Properties
+                  Ringbelt Agents
                 </span>
               </div>
               <p className="mt-4 max-w-xs">
