@@ -403,10 +403,10 @@ function App() {
                 <div className="flex items-center space-x-3">
                   <Mail className="h-6 w-6 text-blue-600 dark:text-blue-500 flex-shrink-0" />
                   <a
-                    href="mailto:info@nyingiproperties.co.ke"
+                    href="ringbelt2011@gmail.com"
                     className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-500"
                   >
-                    info@nyingiproperties.co.ke
+                    ringbelt2011@gmail.com
                   </a>
                 </div>
               </div>
