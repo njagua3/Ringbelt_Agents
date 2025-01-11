@@ -162,7 +162,7 @@ function App() {
               Director (John Nyingi): +254 721398816
             </a>
             <a
-              href="https://wa.me/254721398816"
+              href="https://wa.me/254707046253"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center hover:text-blue-200"
@@ -431,7 +431,7 @@ function App() {
                     <Twitter className="h-6 w-6" />
                   </a>
                   <a
-                    href="https://wa.me/254721398816"
+                    href="https://wa.me/254707046253"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 dark:text-blue-500 hover:text-blue-700 dark:hover:text-blue-400"
